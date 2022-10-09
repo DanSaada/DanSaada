@@ -5,7 +5,7 @@
 📫 How to reach me:
 <a href="https://www.linkedin.com/in/dan-saada-45a055250">
          <img src= "https://user-images.githubusercontent.com/112869076/194754989-431bed8a-979b-4f63-a549-2f74ae95f528.png"
-         width=40" height="40">
+         width="40" height="40">
       </a>
 
 
