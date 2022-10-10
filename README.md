@@ -8,6 +8,7 @@
          width="18" height="18">
       </a>
 
+[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSaada)](https://github.com/DanSaada/github-readme-stats)
 
 <!--
 **DanSaada/DanSaada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
