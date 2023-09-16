@@ -6,10 +6,13 @@
 
 <div style="display: flex; align-items: center;">
        😄 Lets connect: &nbsp;
-         <a href="https://www.linkedin.com/in/dan-saada-45a055250">
-                  <img src= "https://github.com/DanSaada/DanSaada/assets/112869076/c561435d-ed64-4d56-b0c9-7149fc355075" width="23" height="23">
-         </a>  
+       <a href="https://www.linkedin.com/in/dan-saada-45a055250" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dan"/>
+        </a>
 </div><br>
+
+
+
 
 
 [![Dan's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanSaada&layout=compact)](https://github.com/DanSaada/github-readme-stats)
