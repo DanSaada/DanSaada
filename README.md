@@ -1,6 +1,6 @@
 ### Hi there i'm Dan👋
 
-📘 I’m a 2nd year computer science student at Bar-Ilan University.
+📘 I’m a 3rd year computer science student at Bar-Ilan University.
 
 📫 How to reach me: dansaada2@gmail.com
 
