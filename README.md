@@ -7,7 +7,7 @@
 <div style="display: flex; align-items: center;">
        😄 Lets connect: &nbsp;
        <a href="https://www.linkedin.com/in/dan-saada-45a055250" target="_blank">
-                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dan"/>
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dan" height="25" width="90"/>
         </a>
 </div><br>
 
