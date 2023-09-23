@@ -4,6 +4,8 @@
 
 📫 How to reach me: dansaada2@gmail.com
 
+🔭 For more information about me and my skills: https://portfolio-dan-alpha.vercel.app/
+
 <div style="display: flex; align-items: center;">
        😄 Lets connect: &nbsp;
        <a href="https://www.linkedin.com/in/dan-saada-45a055250" target="_blank">
